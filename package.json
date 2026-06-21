@@ -18,7 +18,7 @@
 		"url": "https://github.com/zokugun/vscode-endofline/issues"
 	},
 	"engines": {
-		"vscode": "^1.23.0"
+		"vscode": "^1.56.0"
 	},
 	"main": "./lib/index.js",
 	"browser": "./lib/index.js",
@@ -49,7 +49,7 @@
 		"@commitlint/config-conventional": "20.5.3",
 		"@types/node": "20.19.43",
 		"@types/vscode": "1.56.0",
-		"@vercel/ncc": "^0.38.3",
+		"@vercel/ncc": "0.38.4",
 		"fixpack": "4.0.0",
 		"husky": "9.1.7",
 		"lint-staged": "16.4.0",
